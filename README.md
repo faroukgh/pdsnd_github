@@ -1,11 +1,19 @@
 ### Date created
 23-01-2020 16:29
 
+### Project Stage
+Stage 3
+
+### Project Owner
+name:farouk osuman
+email: meetfk2000@gmail.com
+
 ### Project Title
 Udacity Project 3
 
 ### Description
 Git and Github project: Working on existing project using Git and updating a Github repostries.
+
 ### Files used
 Files used: ReadME.md, .gitignore, bikeshare.py and csv files
 
