@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+23-01-2020 16:29
 
 ### Project Title
-Replace the Project Title
+Udacity Project 3
 
 ### Description
-Describe what your project is about and what it does
-
+Git and Github project: Working on existing project using Git and updating a Github repostries.
 ### Files used
-Include the files used
+Files used: ReadME.md, .gitignore, bikeshare.py and csv files
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Reference
+gitignore "http://git-scm.com/docs/gitignore" [accessed on 20/01/2020] 
+tracking files "https://stackoverflow.com/questions/2405305/how-to-tell-if-a-file-is-git-tracked-by-shell-exit-code" [accessed on 21/01/2020]
+staging changes "https://githowto.com/staging_changes" [accessed on 2/01/2020]
 
